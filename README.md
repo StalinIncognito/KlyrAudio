@@ -1,5 +1,7 @@
 # Klyraudio
 
+DOWNLOAD from releases on the right ----------------------------------------------------------------------------------------------------------------------------------------------->
+
 A small Winamp-style audio player for Windows. Klyraudio plays your local music, web radio, and podcasts, and you can arrange its windows any way you like.
 
 Version 1.6.6.
